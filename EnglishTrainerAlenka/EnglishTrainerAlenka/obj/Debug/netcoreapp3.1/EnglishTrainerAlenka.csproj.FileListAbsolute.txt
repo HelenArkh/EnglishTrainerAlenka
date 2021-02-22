@@ -1,0 +1,16 @@
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\obj\Debug\netcoreapp3.1\EnglishTrainerAlenka.csprojAssemblyReference.cache
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\obj\Debug\netcoreapp3.1\EnglishTrainerAlenka.AssemblyInfoInputs.cache
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\obj\Debug\netcoreapp3.1\EnglishTrainerAlenka.AssemblyInfo.cs
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\obj\Debug\netcoreapp3.1\EnglishTrainerAlenka.csproj.CoreCompileInputs.cache
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\bin\Debug\netcoreapp3.1\EnglishTrainerAlenka.exe
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\bin\Debug\netcoreapp3.1\EnglishTrainerAlenka.deps.json
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\bin\Debug\netcoreapp3.1\EnglishTrainerAlenka.runtimeconfig.json
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\bin\Debug\netcoreapp3.1\EnglishTrainerAlenka.runtimeconfig.dev.json
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\bin\Debug\netcoreapp3.1\EnglishTrainerAlenka.dll
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\bin\Debug\netcoreapp3.1\EnglishTrainerAlenka.pdb
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\obj\Debug\netcoreapp3.1\EnglishTrainerAlenka.csproj.CopyComplete
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\obj\Debug\netcoreapp3.1\EnglishTrainerAlenka.dll
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\obj\Debug\netcoreapp3.1\EnglishTrainerAlenka.pdb
+D:\VS_Projects\EnglishTrainerAlenka\EnglishTrainerAlenka\EnglishTrainerAlenka\obj\Debug\netcoreapp3.1\EnglishTrainerAlenka.genruntimeconfig.cache
